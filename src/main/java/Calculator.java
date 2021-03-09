@@ -22,6 +22,7 @@ public class Calculator{
 
     public static void main(String[] args){
         System.out.println("Hello friend");
+        System.out.println("How are you?");
         int a;
         Scanner obj=new Scanner(System.in);
         boolean state=true;

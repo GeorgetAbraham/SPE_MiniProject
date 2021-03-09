@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="Tester" time="0.062" tests="3" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="Tester" time="0.06" tests="3" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="gnome"/>
     <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
@@ -17,7 +17,7 @@
     <property name="user.country" value="IN"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-8-oracle/jre/lib/amd64"/>
-    <property name="sun.java.command" value="/home/george/IdeaProjects/SPE_Project/target/surefire/surefirebooter1633533443477969234.jar /home/george/IdeaProjects/SPE_Project/target/surefire 2021-03-09T21-32-37_103-jvmRun1 surefire1386301651580783629tmp surefire_03290921808225455164tmp"/>
+    <property name="sun.java.command" value="/home/george/IdeaProjects/SPE_Project/target/surefire/surefirebooter4829936934453085023.jar /home/george/IdeaProjects/SPE_Project/target/surefire 2021-03-09T22-49-52_082-jvmRun1 surefire1013892908908897561tmp surefire_04817183370898751653tmp"/>
     <property name="surefire.test.class.path" value="/home/george/IdeaProjects/SPE_Project/target/test-classes:/home/george/IdeaProjects/SPE_Project/target/classes:/home/george/.m2/repository/junit/junit/4.13.1/junit-4.13.1.jar:/home/george/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:/home/george/.m2/repository/org/apache/logging/log4j/log4j-api/2.14.0/log4j-api-2.14.0.jar:/home/george/.m2/repository/org/apache/logging/log4j/log4j-core/2.14.0/log4j-core-2.14.0.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="/home/george"/>
@@ -30,7 +30,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="/home/george/IdeaProjects/SPE_Project/target/surefire/surefirebooter1633533443477969234.jar"/>
+    <property name="surefire.real.class.path" value="/home/george/IdeaProjects/SPE_Project/target/surefire/surefirebooter4829936934453085023.jar"/>
     <property name="sun.boot.class.path" value="/usr/lib/jvm/java-8-oracle/jre/lib/resources.jar:/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar:/usr/lib/jvm/java-8-oracle/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jsse.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jce.jar:/usr/lib/jvm/java-8-oracle/jre/lib/charsets.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jfr.jar:/usr/lib/jvm/java-8-oracle/jre/classes"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="1.8.0_191-b12"/>
@@ -59,6 +59,6 @@
     <property name="java.class.version" value="52.0"/>
   </properties>
   <testcase name="onepostest" classname="Tester" time="0.006"/>
-  <testcase name="bothnegtest" classname="Tester" time="0.001"/>
-  <testcase name="bothpostest" classname="Tester" time="0.001"/>
+  <testcase name="bothnegtest" classname="Tester" time="0"/>
+  <testcase name="bothpostest" classname="Tester" time="0"/>
 </testsuite>
